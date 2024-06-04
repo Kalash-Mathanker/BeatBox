@@ -19,3 +19,6 @@ Additionally, BeatBox includes a local server that enables the creation of local
 
 Contributions to BeatBox are welcome! If you encounter any issues or have suggestions for improvements, please submit them to the issue tracker.
 
+![image](https://github.com/Kalash-Mathanker/BeatBox/assets/114083217/983fa5a3-103b-42a4-8a69-3cadec6d2c75)
+
+
